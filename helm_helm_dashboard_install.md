@@ -1,6 +1,6 @@
 # Helm & Helm Dashboard installation commands
 
-[RAHUL RAJ V V]
+[RAHUL RAJ V V][link2]
 
 ## Installing Helm in Windows
 
@@ -39,3 +39,4 @@ helm dashboard
 ```
 ** STAY TUNED FOR MORE UPDATES **
 
+[link2]: <https://www.linkedin.com/in/rahulrajvv/>
